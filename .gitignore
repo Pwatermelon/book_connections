@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+uploads/
+results/
+*.html
+*.owl
+*.txt
+!example_book.txt
+!README.md
+venv/
+env/
+.venv/
+
